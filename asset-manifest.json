@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/guide-to-prehistory/static/js/main.50e60e1b.chunk.js",
+    "main.js.map": "/guide-to-prehistory/static/js/main.50e60e1b.chunk.js.map",
+    "runtime-main.js": "/guide-to-prehistory/static/js/runtime-main.ceb69e97.js",
+    "runtime-main.js.map": "/guide-to-prehistory/static/js/runtime-main.ceb69e97.js.map",
+    "static/js/2.2de0d0fd.chunk.js": "/guide-to-prehistory/static/js/2.2de0d0fd.chunk.js",
+    "static/js/2.2de0d0fd.chunk.js.map": "/guide-to-prehistory/static/js/2.2de0d0fd.chunk.js.map",
+    "static/js/3.1e4ded89.chunk.js": "/guide-to-prehistory/static/js/3.1e4ded89.chunk.js",
+    "static/js/3.1e4ded89.chunk.js.map": "/guide-to-prehistory/static/js/3.1e4ded89.chunk.js.map",
+    "index.html": "/guide-to-prehistory/index.html",
+    "static/js/2.2de0d0fd.chunk.js.LICENSE.txt": "/guide-to-prehistory/static/js/2.2de0d0fd.chunk.js.LICENSE.txt",
+    "static/media/canvasoffwhite.76ed5d24.jpg": "/guide-to-prehistory/static/media/canvasoffwhite.76ed5d24.jpg",
+    "static/media/david.f5546952.jpg": "/guide-to-prehistory/static/media/david.f5546952.jpg",
+    "static/media/endpermianbadgealpha.77761221.jpeg": "/guide-to-prehistory/static/media/endpermianbadgealpha.77761221.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceb69e97.js",
+    "static/js/2.2de0d0fd.chunk.js",
+    "static/js/main.50e60e1b.chunk.js"
+  ]
+}
